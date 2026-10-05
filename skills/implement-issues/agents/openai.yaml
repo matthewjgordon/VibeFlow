@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement Issues"
+  short_description: "Run Issues.md slices with validation"
+  default_prompt: "Use $implement-issues to implement the work described in an Issues.md document and maintain the dated implementation report under Project Knowledge/implementation-reports."

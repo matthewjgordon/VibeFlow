@@ -1,0 +1,6 @@
+interface:
+  display_name: "Architectural Health Review"
+  short_description: "Focused architecture risk and boundary review"
+  default_prompt: "Use $architectural-health-review to inspect this codebase and create a dated architecture health report."
+policy:
+  allow_implicit_invocation: true

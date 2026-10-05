@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Update"
+  short_description: "Maintain the project architecture wiki"
+  default_prompt: "Use $wiki-update to update the project architectural wiki after this implementation."
