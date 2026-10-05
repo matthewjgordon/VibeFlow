@@ -2,6 +2,8 @@
 
 **A structured vibe-coding workflow for non-traditional developers.**
 
+<img src="assets/vibeflow-banner.png" alt="VibeFlow abstract illustration" width="100%">
+
 If you already build software by talking to an AI, VibeFlow gives those
 conversations structure so decisions and context survive beyond the chat.
 
